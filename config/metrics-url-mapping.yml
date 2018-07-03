@@ -1,0 +1,24 @@
+matrics: 
+  - 
+    name: COUNTER
+    urls: 
+      - /endpointA
+      - /endpointB
+  - 
+    name: GUAGE
+    urls: 
+      - /endpointA
+      - /endpointC
+      - /endpointD
+  - 
+    name: SUMMARY
+    urls: 
+      - /endpointA
+      - /endpointC
+      - /endpointD
+  - 
+    name: HISTOGRAM
+    urls: 
+      - /endpointA
+      - /endpointC
+      - /endpointD
